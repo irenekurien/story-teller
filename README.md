@@ -2,6 +2,12 @@
 
 A new Flutter project.
 
+
+![alt text](https://github.com/irenekurien/story-teller/blob/main/images/1.jpg)
+![alt text](https://github.com/irenekurien/story-teller/blob/main/images/2.jpg)
+![alt text](https://github.com/irenekurien/story-teller/blob/main/images/3.jpg)
+![alt text](https://github.com/irenekurien/story-teller/blob/main/images/4.jpg)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
